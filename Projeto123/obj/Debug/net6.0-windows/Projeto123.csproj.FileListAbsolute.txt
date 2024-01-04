@@ -1,0 +1,17 @@
+C:\Users\mathe\source\repos\Projeto123\Projeto123\bin\Debug\net6.0-windows\Projeto123.exe
+C:\Users\mathe\source\repos\Projeto123\Projeto123\bin\Debug\net6.0-windows\Projeto123.deps.json
+C:\Users\mathe\source\repos\Projeto123\Projeto123\bin\Debug\net6.0-windows\Projeto123.runtimeconfig.json
+C:\Users\mathe\source\repos\Projeto123\Projeto123\bin\Debug\net6.0-windows\Projeto123.dll
+C:\Users\mathe\source\repos\Projeto123\Projeto123\bin\Debug\net6.0-windows\Projeto123.pdb
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\Projeto123.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\Projeto123.Form1.resources
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\Projeto123.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\Projeto123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\Projeto123.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\Projeto123.AssemblyInfo.cs
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\Projeto123.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\Projeto123.dll
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\refint\Projeto123.dll
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\Projeto123.pdb
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\Projeto123.genruntimeconfig.cache
+C:\Users\mathe\source\repos\Projeto123\Projeto123\obj\Debug\net6.0-windows\ref\Projeto123.dll
